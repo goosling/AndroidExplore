@@ -14,6 +14,7 @@ import java.util.List;
 
 public class GameView extends GridLayout {
 
+
     public GameView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
 
